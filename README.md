@@ -1,6 +1,6 @@
-## 猫影视TV2.1.1 Beta6版
+## 猫影视TV2.1.1 Beta6版V4
 
-CatVodTV_v2.1.1.Beta6_3.apk  优化ijk播放  
+CatVodTV_v2.1.1.Beta6_20220615094256.apk  优化ijk播放  
 
 猫影视tv使用的人非常多，是采用空壳+接口的方式运行，可能是作者出于风险的考虑，最近屏蔽了一批又一批接口，基本上只要哪个接口使用的人多一点，那么很快就会被屏蔽，无法加载jar，也就无法使用。
 
@@ -16,11 +16,11 @@ https://pan.lanzoui.com/b0c3cb92f
 
 ### 打开猫影视—【设置】—【当前接口】添加  
 
-最好把接口下载下来，在本地使用  
+最好把接口下载下来，在本地使用，若使用网络接口，不知道可以使用多久
 
 各路大神整理的本地化接口：https://wwn.lanzoum.com/b0310qvah 密码: 76c2  
 
-https://liu673cn.github.io/mao/20  单文件  
+[https://liu673cn.github.io/mao/20](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/20?download=true)  单文件  
 华为鸿蒙系统存储位置   
 clan://localhost/Download/Browser/20   
 
