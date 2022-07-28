@@ -20,10 +20,10 @@
 - [https://shuyuan.miaogongzi.net](https://shuyuan.miaogongzi.net)   
 
 ------
-![TVbox01](https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/TVbox/TVbox01.jpg) <br />
-![TVbox02](https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/TVbox/TVbox02.jpg) <br />
-![TVbox03](https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/TVbox/TVbox03.jpg) <br />
-![TVbox04](https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/TVbox/TVbox04.jpg) <br />
+![TVbox01](https://liu673cn.github.io/box/sub/TVbox/TVbox01.jpg) <br />
+![TVbox02](https://liu673cn.github.io/box/sub/TVbox/TVbox02.jpg) <br />
+![TVbox03](https://liu673cn.github.io/box/sub/TVbox/TVbox03.jpg) <br />
+![TVbox04](https://liu673cn.github.io/box/sub/TVbox/TVbox04.jpg) <br />
 
 ------
 ### 4.TVBox进阶必备利器
@@ -46,6 +46,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
 https://raw.fastgit.org/
 
 https://raw-gh.gcdn.mirr.one/
+
+https://cdn.staticaly.com/gh/liu673cn/box/main/m.json  
 
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
